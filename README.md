@@ -27,22 +27,9 @@
 ### 프로젝트 진행 기간
 * 2023.11.13 ~ 2023.12.27 (176시간)
 
-
-# Korea IT Academy 교육 내역
-* 과정명 : 웹개발
-* 교육기간 : 2023.09.07 ~ 2023.03.21
-
-
-### 교육 내용
-* JAVA 프로그래밍 (120시간) : 기본문법, 객체지향 프로그래밍, 다형성, Collection, Exception, Inner class, IOStream, Stream, Lambda
-* RDBMS (40시간) : DML, DDL, DCL, 단일행/그룹함수, Join, SubQuery, View, 트랜잭션, ER-diagram, 정규화
-* 웹 표준 (128시간) : HTML 5, CSS3, JavaScript, jQuery, 반응형웹, BootStrap, AJAX. fetch API, JSON, XML
-* Spring Framework (88시간) : Dependency Injection, Autowire, DI Config,  SpringBoot, Sping MVC, request mapping, validation, Security,  MyBatis, RestTemplate
-* Github (8시간)
-* Linux, AWS (16시간)
-* 스프링 기반 웹 애플리케이션 프로젝트 (176시간)
-
-
+<br/>
+<br/>
+  
 ## paykeeper - personal project (in progress)
 스프링 부트를 활용한 알바비 지킴이 사이트 PayKeeper([바로가기](https://github.com/YuSangGon/paykeeper))
 
@@ -64,3 +51,22 @@
 
 ### 프로젝트 진행 기간
 * 2024.01.20 ~
+
+<br/>
+<br/>
+  
+## Korea IT Academy 교육 내역
+* 과정명 : 웹개발
+* 교육기간 : 2023.09.07 ~ 2023.03.21
+
+
+### 교육 내용
+* JAVA 프로그래밍 (120시간) : 기본문법, 객체지향 프로그래밍, 다형성, Collection, Exception, Inner class, IOStream, Stream, Lambda
+* RDBMS (40시간) : DML, DDL, DCL, 단일행/그룹함수, Join, SubQuery, View, 트랜잭션, ER-diagram, 정규화
+* 웹 표준 (128시간) : HTML 5, CSS3, JavaScript, jQuery, 반응형웹, BootStrap, AJAX. fetch API, JSON, XML
+* Spring Framework (88시간) : Dependency Injection, Autowire, DI Config,  SpringBoot, Sping MVC, request mapping, validation, Security,  MyBatis, RestTemplate
+* Github (8시간)
+* Linux, AWS (16시간)
+* 스프링 기반 웹 애플리케이션 프로젝트 (176시간)
+
+
